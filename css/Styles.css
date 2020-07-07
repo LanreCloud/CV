@@ -1,0 +1,137 @@
+body{
+    margin: 0px;
+}
+h1{
+    color: #66bfbf;
+    font-family: cursive;
+    margin: 0;
+    padding-top: 100px;
+    padding-bottom: 30px;
+    
+}
+h2{
+    color: #66bfbf;
+}
+h3
+{
+    color: #11999e;
+}
+p{
+    color: #40514e;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    width: 50%;
+    text-align: center;
+    line-height: 2rem;
+    margin: auto;
+}
+hr{
+    /* border: solid; */
+    border: dotted;
+    width: 2rem;
+    line-height: 100%;
+    color: #eaf6f6;
+    font-display: bold;
+}
+
+/* first container starts here */
+.first_container{
+    background-color: #eaf6f6;
+    text-align: center;
+}
+
+.cloud1{
+    position: absolute;
+    right: 250px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.welcome{
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.cloud2{
+    position: absolute;
+    left: 250px;
+}
+/* first container ends here */
+
+/* second container starts here */
+
+.second_container{
+    text-align: center;
+    padding: 50px;
+}
+.photo{
+    border-radius: 50%;
+}
+.photo_text{
+    margin: center;
+}
+
+/* second container ends here */
+
+/* third container starts here */
+
+.third_container{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 150px;
+    margin: auto;
+    width: 100%;
+}
+
+.web{
+    border-radius: 50%;
+    position: absolute;
+    left: 400px;
+
+}
+.web_text{
+    float: right;
+    padding-right: 220px;
+    width: 50%;
+
+}
+
+.fourth_container{
+    text-align: center;
+    padding-top: 50px;
+    padding-bottom: 200px;
+    
+}
+
+.forex{
+    border-radius: 50%;
+    position: absolute;
+    right: 400px;    
+}
+.forex_text{
+    float: left;
+    padding-left: 220px;
+    width: 50%;
+    padding-bottom: 30px;
+}
+.fifth_container{
+    text-align: center;
+    padding-top: 20px;
+    
+}
+.contactlink{
+    font-size: 1.5rem;
+}
+.contacts{
+    background-color: #66bfbf;
+    margin-bottom: 0em;
+    margin-top: 30px;
+    padding: 30px;
+}
+.media:hover{
+    color: #11999e;
+    padding-left: 30px;
+}
+
+.reserved{
+    color: #eaf6f6;
+    font-size: 0.9rem;
+}
